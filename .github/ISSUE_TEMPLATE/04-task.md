@@ -1,8 +1,8 @@
 ---
 name: 일반 작업
 about: 문서 작성, 설정 변경, 환경 구성 등 일반 작업을 등록합니다.
-title: "[Task] "
-labels: ["task"]
+title: "[Chore] "
+labels: ["🔧 chore"]
 assignees: ""
 ---
 
