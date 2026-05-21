@@ -1,4 +1,4 @@
-# 🦊 SKIPERS
+# SKIPA: 특허 Life Cycle 관리 서비스
 
 > **SK IP Agent, SKIPA**  
 > 특허 Life Cycle 관리와 연차료 납부 전 재평가 의사결정을 지원하는 AI 기반 특허 관리 서비스입니다.
